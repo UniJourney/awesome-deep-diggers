@@ -1,6 +1,8 @@
 # Awesome Deep Diggers
 
-A curated list of  website, resources and shiny things.Be a cool deep digger
+- A curated list of  website, resources and shiny things
+- Be a cool deep diggers
+- Starting in 20191228
 
 ## Table of Contents
 
